@@ -21,7 +21,7 @@
     "tsconfig": "*",
     "tailwind-config": "*",
     "eslint-config-next": "13.4.5",
-    "next": "13.4.5",
+    "next": "14.2.10",
     "postcss": "8.4.24",
     "react": "18.2.0",
     "react-dom": "18.2.0",
